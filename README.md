@@ -1,8 +1,8 @@
 # SQL-ADVANCED-DATA-ANALYTICS
 
+## A collection of SQL analytics scripts prepared from the data warehouse built in my previous project, designed for exploration, reporting, and insights
 
 
-This repository provides a comprehensive set of SQL scripts for data exploration, analytics, and reporting. It is designed as a practical resource for data analysts, BI professionals, and anyone working with relational databases.
 
 ### The scripts cover a variety of analytical use cases, including:
 
