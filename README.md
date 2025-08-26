@@ -25,3 +25,6 @@
 - Written with SQL best practices, including clear formatting and comments
 
 - Adaptable to multiple SQL dialects, making it easy to customize for your database environment
+
+<img width="316" height="160" alt="image" src="https://github.com/user-attachments/assets/71fb9fab-1038-4bb0-bc6c-e9a64f3a01fe" />
+
